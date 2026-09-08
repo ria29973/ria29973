@@ -22,42 +22,42 @@ Hello! My name is Ria, and I am a junior at Georgia Tech studying computer engin
 
 
 ## Experience
-Teaching Assistant @ Georgia Tech | Atlanta, GA | August 2026 - Present
+<b> Teaching Assistant @ Georgia Tech | Atlanta, GA | August 2026 - Present </b>
 - An undergraduate teaching assistant for Programming Hardware/Software Systems (ECE 2035)
 - Lead review sessions for 300+ students, focusing on low-level systems concepts, memory management and performance optimization
 - Facilitate 3 hours weekly office hours debugging issues in C and assembly projects to improve problem-solving
 - Review and grade exams/assignments with feedback, identifying gaps in understanding of systems programming
 
-Undergraduate Researcher @ Georgia Tech | Atlanta, GA | August 2026 - Present   
+<b> Undergraduate Researcher @ Georgia Tech | Atlanta, GA | August 2026 - Present    </b>
 - Developed a machine learning pipeline for data-driven stock selection from S&P 500/Nasdaq-100 using dimensionality reduction (PCA, t-SNE, Matryoshka Embeddings)
 - Achieved 84% market signal capture with 4.0x compression, validating algorithm choice as critical factor in portfolio quality
 
-Software Engineering Intern @ Travelers | Hartford, CT | June 2026 - August 2026
+<b> Software Engineering Intern @ Travelers | Hartford, CT | June 2026 - August 2026 </b>
 - Led backwards-compatible migration of customer-facing application logic from a legacy Master Data Management system to Reltio, while maintaining 99.9% uptime and zero service interruptions during the transition
 -  Redesigned customer-facing e-delivery UI to better achieve regulatory compliance and meet business requirements
 - Reduced manual review overhead by 40% and improved code quality standards by developing an internal Claude-based plugin to automatically audit codebases and generate non-functional requirements
 
-Teaching Assistant @ Georgia Tech | Atlanta, GA | December 2025 - May 2026
+<b> Teaching Assistant @ Georgia Tech | Atlanta, GA | December 2025 - May 2026 </b>
 - An undergraduate teaching assistant for Discrete Math (CS 2050)
 - Facilitate 4 hours weekly office hours, mentoring students on topics like proof logic, complexity analysis, cryptography
 - Lead workshops for 50+ students to solidify concepts gone over in lecture
 - Designed and wrote study guide materials for 800+ students to improve exams scores
 
 ## Projects
-Animal Training Management System | Node.js, React, Tailwind CSS, MongoDB | April 2026
+<b> Animal Training Management System | Node.js, Typescript, React, Tailwind CSS, MongoDB | April 2026 </b>
 - Developed a full-stack application allowing users to input their pets and training logs for each of them
 - Allowed for different functionality between regular users and admin
 
-CampusFix | Java, Android Studio | January 2026 - April 2026
+<b> CampusFix | Java, Android Studio | January 2026 - April 2026 </b>
 - Created a mobile application allowing students to report different maintenance issues around campus
 - Staff members are able to update the status of these issues, be assigned to an issue and write notes
 
-Buzz Blitz | C, ESP32 | April 2026 
+<b> Buzz Blitz | C, ESP32 | April 2026 </b>
 - Developed a 2D side-scroller game on the ESP32 platform using embedded C, implementing input handling, collision detection, rendering and game state management
 - Integrated hardware controls including navigation switches and pushbuttons to support responsive gameplay
 - <a href="https://youtu.be/C74zv_HysIk"> Watch a demo here! </a>
 
-HuskyTrade | CSS, HTML, Javascript | March 2025
+<b> HuskyTrade | CSS, HTML, Javascript | March 2025 </b>
 - One of the first websites I made
 - A marketplace for UConn students to sell & buy second-hand items
 

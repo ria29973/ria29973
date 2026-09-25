@@ -29,12 +29,13 @@ Hello! My name is Ria, and I am a junior at Georgia Tech studying computer engin
 - Review and grade exams/assignments with feedback, identifying gaps in understanding of systems programming
 
 <b> Undergraduate Researcher @ Georgia Tech | Atlanta, GA | August 2026 - Present    </b>
-- Developed a machine learning pipeline for data-driven stock selection from S&P 500/Nasdaq-100 using dimensionality reduction (PCA, t-SNE, Matryoshka Embeddings)
+- Built an end-to-end Python pipeline to approximate ETF behavior using dimensionality reduction techniques (PCA, t-SNE, Matryoshka Embeddings), to identify minimal stock subsets that capture dominant market factors while reducing transaction costs and portfolio complexity
 - Achieved 84% market signal capture with 4.0x compression, validating algorithm choice as critical factor in portfolio quality
 
 <b> Software Engineering Intern @ Travelers | Hartford, CT | June 2026 - August 2026 </b>
 - Led backwards-compatible migration of customer-facing application logic from a legacy Master Data Management system to Reltio, while maintaining 99.9% uptime and zero service interruptions during the transition
--  Redesigned customer-facing e-delivery UI to better achieve regulatory compliance and meet business requirements
+-  Redesigned customer-facing UI to better achieve regulatory compliance and meet business requirements
+- Debugged production issues in AWS CloudWatch to resolve failures in real-time, working through complex troubleshooting to determine root causes and communicate solutions with cross-functional teams
 - Reduced manual review overhead by 40% and improved code quality standards by developing an internal Claude-based plugin to automatically audit codebases and generate non-functional requirements
 
 <b> Teaching Assistant @ Georgia Tech | Atlanta, GA | December 2025 - May 2026 </b>
@@ -44,6 +45,9 @@ Hello! My name is Ria, and I am a junior at Georgia Tech studying computer engin
 - Designed and wrote study guide materials for 800+ students to improve exams scores
 
 ## Projects
+<b> Just Add Honey | Python | September 2026 - Present </b>
+- Developing a Python pipeline to sync inventory between Shopify and Square marketplaces for a local cafe
+  
 <b> Animal Training Management System | Node.js, Typescript, React, Tailwind CSS, MongoDB | April 2026 </b>
 - Developed a full-stack application allowing users to input their pets and training logs for each of them
 - Allowed for different functionality between regular users and admin
